@@ -14,5 +14,5 @@ BF5		            : https://store.steampowered.com/app/1238810/Battlefield_V/    
 ||https://www.ea.com/pt-br/games/battlefield/battlefield-5                                       -- R$ 22,90
 V Rising	            : https://store.steampowered.com/app/1604030/V_Rising/               -- R$ 30,39
 OverCooked 2		    : https://store.steampowered.com/app/728880/Overcooked_2/            -- R$ 14,97
-Warface 			                        : De GRatis
+Warface 			                  : De GRatis
 Sea of Thieves                                 : Gamepass.
