@@ -17,3 +17,4 @@ OverCooked 2		    : https://store.steampowered.com/app/728880/Overcooked_2/     
 Warface 	            : De GRatis
 Sea of Thieves              : Gamepass
 Bordelands                  : https://store.steampowered.com/bundle/8133/Borderlands_The_Handsome_Collection/ -- R$ 22,15
+Borderlands 3            :https://store.steampowered.com/app/397540/Borderlands_3/  --R$ 29,97 OBS: Versão Base
