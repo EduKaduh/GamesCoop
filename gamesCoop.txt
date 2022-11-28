@@ -16,4 +16,4 @@ V Rising	            : https://store.steampowered.com/app/1604030/V_Rising/     
 OverCooked 2		    : https://store.steampowered.com/app/728880/Overcooked_2/            -- R$ 14,97
 Warface 	            : De GRatis
 Sea of Thieves              : Gamepass
-Bordelands                 : https://store.steampowered.com/bundle/8133/Borderlands_The_Handsome_Collection/ -- R$ 22,15
+Bordelands                   : https://store.steampowered.com/bundle/8133/Borderlands_The_Handsome_Collection/ -- R$ 22,15
