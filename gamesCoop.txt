@@ -11,7 +11,7 @@ https://www.ea.com/pt-br/games/battlefield/battlefield-1/buy/pc                 
 BF3		            : https://store.steampowered.com/app/1238820/Battlefield_3/ ||https://www.ea.com/pt-br/games/battlefield/battlefield-3
 BF4			    : https://store.steampowered.com/app/1238860/Battlefield_4/ ||https://www.ea.com/pt-br/games/battlefield/battlefield-4
 BF5		            : https://store.steampowered.com/app/1238810/Battlefield_V/          -- R$ 22,90
-||https://www.ea.com/pt-br/games/battlefield/battlefield-5                             -- R$ 22,90
+||https://www.ea.com/pt-br/games/battlefield/battlefield-5                                   -- R$ 22,90
 V Rising	            : https://store.steampowered.com/app/1604030/V_Rising/               -- R$ 30,39
 OverCooked 2		    : https://store.steampowered.com/app/728880/Overcooked_2/            -- R$ 14,97
 Warface 			      : De GRatis
