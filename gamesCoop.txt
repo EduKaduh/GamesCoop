@@ -6,7 +6,6 @@ Dying Light  		    : https://store.steampowered.com/sub/88801/                  
 Raft         		    : https://store.steampowered.com/app/648800/Raft/                    -- R$ 24,78
 GTA V        		    : https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/
 Deep Rock Galactic	    : https://store.steampowered.com/app/548430/Deep_Rock_Galactic/      -- R$ 19,13
-Minecraft		    : Baixa Pirata fds
 BF1 			    : https://store.steampowered.com/app/1238840/Battlefield_1/ ||       -- R$ 23,88 
 https://www.ea.com/pt-br/games/battlefield/battlefield-1/buy/pc                                  -- R$ 23,88 
 BF3		            : https://store.steampowered.com/app/1238820/Battlefield_3/ ||https://www.ea.com/pt-br/games/battlefield/battlefield-3
@@ -15,11 +14,15 @@ BF5		            : https://store.steampowered.com/app/1238810/Battlefield_V/    
 ||https://www.ea.com/pt-br/games/battlefield/battlefield-5                                       -- R$ 22,90
 V Rising	            : https://store.steampowered.com/app/1604030/V_Rising/               -- R$ 30,39
 OverCooked 2		    : https://store.steampowered.com/app/728880/Overcooked_2/            -- R$ 14,97
-Warface 	            : De Gratis
 Sea of Thieves              : Gamepass
 Bordelands                  : https://store.steampowered.com/bundle/8133/Borderlands_The_Handsome_Collection/ -- R$ 22,15 
 Borderlands 3               : https://store.steampowered.com/app/397540/Borderlands_3/            -- R$ 29,97 OBS: Versão Base
 Killing Floor 2             : https://store.steampowered.com/app/232090/Killing_Floor_2/          -- R$ R$ 13,99 OBS: Versão Base
 Valheim                     : https://store.steampowered.com/app/892970/Valheim/                  -- R$ R$ 26,59 
 Pay Day 2                   : https://store.steampowered.com/app/218620/PAYDAY_2/                 -- R$ 5,99 OBS: Versão Base
-Paladins                    : De Gratis                
+Paladins                    : De Gratis
+Rocket League               : De Gratis
+Warface 	            : De Gratis
+Enlisted                    : De Gratis
+Minecraft		    : Baixa Pirata fds
+
