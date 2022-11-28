@@ -20,7 +20,8 @@ Borderlands 3               : https://store.steampowered.com/app/397540/Borderla
 Killing Floor 2             : https://store.steampowered.com/app/232090/Killing_Floor_2/          -- R$ R$ 13,99 OBS: Versão Base
 Valheim                     : https://store.steampowered.com/app/892970/Valheim/                  -- R$ R$ 26,59 
 Pay Day 2                   : https://store.steampowered.com/app/218620/PAYDAY_2/                 -- R$ 5,99 OBS: Versão Base
-Paladins                    : De Gratis
+Left 4 Dead 2               : https://store.steampowered.com/app/550/Left_4_Dead_2/
+Paladins                    : De Gratis                                                           --R$ 3,29
 Rocket League               : De Gratis
 Warface 	            : De Gratis
 Enlisted                    : De Gratis
