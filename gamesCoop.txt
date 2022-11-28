@@ -12,4 +12,5 @@ BF4					: https://store.steampowered.com/app/1238860/Battlefield_4/ ||https://ww
 BF5					: https://store.steampowered.com/app/1238810/Battlefield_V/ ||https://www.ea.com/pt-br/games/battlefield/battlefield-5, 
 V Rising			: https://store.steampowered.com/app/1604030/V_Rising/,
 OverCooked 2		: https://store.steampowered.com/app/728880/Overcooked_2/
-Warface 			: De GRatis.
+Warface 			: De GRatis
+Sea of Thieves : Gamepass.
